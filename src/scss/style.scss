@@ -92,7 +92,7 @@
 
 	body, input, select, textarea {
 		font-family: "Nunito Sans", Arial, Helvetica, sans-serif;
-		font-size: 13pt;
+		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.65;
 	}
@@ -811,6 +811,9 @@
 		.gallery footer {
 			text-align: center;
 			margin-top: 4em;
+			p{
+				font-size: 120%;
+			}
 		}
 
 		.gallery .content {
