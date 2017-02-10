@@ -972,10 +972,10 @@ input[type="radio"] + label:before {
     }
     &:hover {
         img {
-            -moz-transform: scale(1.075);
-            -webkit-transform: scale(1.075);
-            -ms-transform: scale(1.075);
-            transform: scale(1.075);
+            // -moz-transform: scale(1.075);
+            // -webkit-transform: scale(1.075);
+            // -ms-transform: scale(1.075);
+            // transform: scale(1.075); 
             opacity: .25;
         }
         p{
